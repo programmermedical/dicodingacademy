@@ -1,1 +1,1 @@
-this text from contributor edit
+this text from contributor edit with squash merge
